@@ -1,8 +1,5 @@
 # 🦺 Detector de EPP (Equipo de Protección Personal) 🛠️
 
-
----
-
 ## 🚀 Descripción
 
 Esta aplicación utiliza **YOLO** para la detección en tiempo real de Equipos de Protección Personal (EPP) en video, tales como:
