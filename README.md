@@ -1,6 +1,5 @@
 # 🦺 Detector de EPP (Equipo de Protección Personal) 🛠️
 
-![Logo](https://img.icons8.com/ios-filled/50/000000/worker-safety-helmet.png)
 
 ---
 
